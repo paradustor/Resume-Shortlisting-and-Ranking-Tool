@@ -76,20 +76,3 @@ Credentials
 ![image](https://user-images.githubusercontent.com/11299574/133888509-77cf19eb-ac2d-4c7d-8592-336979f6c068.png)
 
 
-
-## Version Control
-
-### Version 0.1.0
-
-#### Features
-* Users can Login with default credentials
-* Users can Select Job description from dropdown to search for all candidates matching with that job description
-* The NLP algorithm will search for resumes matching the job description
-* The resume search process has parser functions to match the text using NLP 
-* The matching resumes are assigned a score and resumes with top 10 scores are selected
-* The results page displays the list of resumes based on the score ranking 
-* The results table also has a link to download column from where corresponding resume can be downloaded
-
-### Issues
-* The results is not showing showing the phone numbers correctly 
-* Need to parse more information from resumes to be displayed in the results page
